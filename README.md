@@ -269,6 +269,14 @@ Inspired by and sourced from [PLGradSchools](https://github.com/LeifAndersen/PLG
 
 - Taking students:❔
 
+### [University of Regina](https://www.uregina.ca/science/computer-science/index.html)
+
+**Joseph Eremondi** — [Homepage](https://www2.cs.uregina.ca/~eremondj/) · [Scholar](https://scholar.google.ca/citations?user=dO1wEV0AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-9631-4826)
+
+- Research: semantics, dependent types, type theory, gradual types, usable dependent types, dependent pattern matching, set constraints, ordinals and termination, type error diagnosis, type error message generation
+
+- Taking students: Yes
+
 ## Chile
 
 ### Universidad de Chile
