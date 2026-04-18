@@ -2786,7 +2786,7 @@ Application deadline: December 15th
 
 **Ethan Cecchetti** — [Homepage](https://cecchetti.sites.cs.wisc.edu) · [Scholar](https://scholar.google.com/citations?user=GoanxxoAAAAJ) · [ORCID](https://orcid.org/0000-0001-7900-8328) · [DBLP](https://dblp.org/pid/177/2245)
 
-- Research: security
+- Research: type theory, language-based security, information-control flow, choreographic programming, language design
 
 - Taking students: ❔
 

@@ -124,8 +124,7 @@
       homepage: http://www.cs.kuleuven.be/~bartj/
       scholar: https://scholar.google.com/citations?user=kCLViEMAAAAJ
       orcid: https://orcid.org/0000-0002-3605-249X
-      research: program logics, separation logic, program verification, language features for security and correctness, static
-        analysis, type systems, concurrent programming, language semantics, theorem proving, proof assistants
+      research: program logics, separation logic, program verification, language features for security and correctness, static analysis, type systems, concurrent programming, language semantics, theorem proving, proof assistants
       taking_students: true
       dblp: https://dblp.org/pid/j/BartJacobs2
     - name: Dominique Devriese
@@ -165,8 +164,7 @@
       orcid: https://orcid.org/0000-0003-4811-2469
       taking_students: true
       dblp: https://dblp.org/pid/54/4040
-      research: data-parallel language design and implementation, high-level code generation, optimization for parallel hardware (GPUs, FPGAs),
-        advanced compiler optimization techniques, architecture design space exploration, machine learning
+      research: data-parallel language design and implementation, high-level code generation, optimization for parallel hardware (GPUs, FPGAs), advanced compiler optimization techniques, architecture design space exploration, machine learning
     - name: Clark Verbrugge
       homepage: http://www.sable.mcgill.ca/~clump/
       scholar: https://scholar.google.com/citations?user=Pj7HPD4AAAAJ
@@ -375,8 +373,7 @@
       scholar: https://scholar.google.com/citations?user=gbSSgnkAAAAJ
       orcid: https://orcid.org/0000-0003-4305-0625
       dblp: https://dblp.org/pid/p/JvdPol
-      research: formal methods, model checking, automated reasoning, concurrency, distributed systems, quantum computing,
-        quantum programming
+      research: formal methods, model checking, automated reasoning, concurrency, distributed systems, quantum computing, quantum programming
     - name: Jean Pichon-Pharabod
       homepage: https://jeanpichon.github.io
       scholar: https://scholar.google.com/citations?user=ReYyKJAAAAAJ
@@ -518,8 +515,7 @@
       homepage: https://sozeau.gitlabpages.inria.fr/www
       scholar: https://scholar.google.com/citations?user=Sow46roAAAAJ
       orcid: https://orcid.org/0000-0001-6452-8806
-      research: type theory, dependent types, type systems, automated reasoning, proof assistants, interactive theorem provers,
-        program verification, functional programming, metaprogramming
+      research: type theory, dependent types, type systems, automated reasoning, proof assistants, interactive theorem provers, program verification, functional programming, metaprogramming
       dblp: https://dblp.org/pid/43/2028
     - name: Nicolas Tabareau
       homepage: https://tabareau.fr
@@ -583,8 +579,7 @@
       homepage: https://catalin-hritcu.github.io
       scholar: https://scholar.google.com/citations?user=d-3XtW8AAAAJ
       orcid: https://orcid.org/0000-0001-8919-8081
-      research: verified compilation, memory management, program verification, dependent types, language semantics, property-based
-        testing, cryptography, information flow control analysis
+      research: verified compilation, memory management, program verification, dependent types, language semantics, property-based testing, cryptography, information flow control analysis
       dblp: https://dblp.org/pid/09/2281
     - name: Deepak Garg
       homepage: https://people.mpi-sws.org/~dg/
@@ -717,8 +712,7 @@
       homepage: https://yanniss.github.io
       scholar: https://scholar.google.com/citations?user=XCJuXcgAAAAJ
       orcid: https://orcid.org/0000-0002-0499-0182
-      research: type systems, program analysis, static analysis, compilers, memory management, domain specific languages,
-        object-oriented programming, parallel programming, concurrency, distributed systems, formal methods
+      research: type systems, program analysis, static analysis, compilers, memory management, domain specific languages, object-oriented programming, parallel programming, concurrency, distributed systems, formal methods
       dblp: https://dblp.org/pid/s/YSmaragdakis
 - name: Hong Kong
   universities:
@@ -878,8 +872,7 @@
       orcid: https://orcid.org/0000-0001-5077-300X
       dblp: https://dblp.org/pid/121/5552
       image: /assets/img/profiles/jose-fragoso-santos.jpg
-      research: automated reasoning, program analysis, static analysis, program synthesis, logic programming, object-oriented
-        programming, language-based security, formal methods
+      research: automated reasoning, program analysis, static analysis, program synthesis, logic programming, object-oriented programming, language-based security, formal methods
     - name: Nuno P. Lopes
       homepage: https://web.ist.utl.pt/nuno.lopes
       scholar: https://scholar.google.com/citations?user=DQnsjaoAAAAJ
@@ -1006,8 +999,7 @@
       scholar: https://scholar.google.com/citations?user=ognOntwAAAAJ
       orcid: https://orcid.org/0000-0002-1656-0913
       image: /assets/img/profiles/chung-kil-hur.jpg
-      research: type theory, automated reasoning, interactive theorem provers, concurrency, program verification, probabilistic
-        programming
+      research: type theory, automated reasoning, interactive theorem provers, concurrency, program verification, probabilistic programming
       dblp: https://dblp.org/pid/75/3287
     - name: Kwangkeun Yi
       homepage: https://ropas.snu.ac.kr/~kwang/
@@ -2823,7 +2815,7 @@
       scholar: https://scholar.google.com/citations?user=GoanxxoAAAAJ
       orcid: https://orcid.org/0000-0001-7900-8328
       dblp: https://dblp.org/pid/177/2245
-      research: security
+      research: type theory, language-based security, information-control flow, choreographic programming, language design
     - name: Thomas W. Reps
       homepage: http://pages.cs.wisc.edu/~reps
       scholar: https://scholar.google.com/citations?user=pwhyTq0AAAAJ
