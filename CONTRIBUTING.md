@@ -80,6 +80,17 @@ placeholder[^1].
 
 ## Regenerating the README
 
+First, install python dependencies:
+
+```
+# Create a virtual environment (optional but recommended)
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
 After editing the YAML, you can manually regenerate the README:
 
 ```
@@ -91,7 +102,7 @@ Or just push and let the workflow do it.
 ## Previewing the site locally
 
 ```
-nix-shell -p jekyll --run "jekyll serve --port 4000"
+jekyll --run "jekyll serve --port 4000"
 ```
 
 Then open http://localhost:4000/phd-applications/.

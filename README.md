@@ -186,6 +186,64 @@ Inspired by and sourced from [PLGradSchools](https://github.com/LeifAndersen/PLG
 
 - Taking students: ❔
 
+**Christophe Dubach** — [Homepage](https://cdubach.bitbucket.io/#about) · [Scholar](https://scholar.google.com/citations?user=DINh8bYAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-4811-2469)
+
+- Research: data-parallel language design and implementation, high-level code generation, optimization for parallel hardware (GPUs, FPGAs), advanced compiler optimization techniques, architecture design space exploration, machine learning
+
+- Taking students: ✅
+
+**Clark Verbrugge** — [Homepage](http://www.sable.mcgill.ca/~clump/) · [Scholar](https://scholar.google.com/citations?user=Pj7HPD4AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-0663-7347)
+
+- Research: program optimization, concurrency, compilers, computer games
+
+- Taking students: ✅
+
+### [Université de Montréal](https://diro.umontreal.ca/accueil/)
+
+[Application deadline](https://diro.umontreal.ca/english/programs/graduate-programs/phd-in-computer-science/admission/):
+
+- Fall (International): February 1st
+- Winter (International): September 1st
+
+**Stefan Monnier** — [Homepage](https://www.iro.umontreal.ca/~monnier/) · [ORCID](https://orcid.org/0000-0001-7597-5273)
+
+- Research: type systems, Emacs, language semantics, functional programming, compilers, garbage collection
+
+- Taking students: ❔
+
+**Marc Feeley** — [Homepage](https://www.iro.umontreal.ca/~feeley/) · [Scholar](https://scholar.google.com/citations?hl=fr&user=z4hQkKQAAAAJ) · [ORCID](https://orcid.org/0009-0005-5237-8712)
+
+- Research: dynamic language implementation,  parallel processing, functional programming, Scheme, Gambit, education in CS, computer architecture
+
+- Taking students: ❔
+
+### [Concordia University](https://www.concordia.ca/ginacody/computer-science-software-eng.html)
+
+[Application deadline](https://www.concordia.ca/academics/graduate/computer-science-phd.html):
+
+- Fall (International): March 1st
+- Fall (Domestic): July 1st
+- Winter (International): July 1st
+- Winter (Domestic): November 1st
+- Summer (International): November 1st
+- Summer (Domestic): March 1st
+
+**Joey Paquet** — [Homepage](https://users.encs.concordia.ca/~paquet/wiki/index.php?title=Research) · [Scholar](https://scholar.google.com/citations?hl=fr&user=uzK_jQIAAAAJ) · [ORCID](https://orcid.org/0000-0002-4922-6989)
+
+- Research: design and implementation of programming languages, context-aware computing, service-oriented computing, software engineering
+
+- Taking students: ❔
+
+### [Université du Québec à Montréal (UQAM)](https://info.uqam.ca/)
+
+[Application deadline](https://etudier.uqam.ca/admission): Rolling
+
+**Ryan Kavanagh** — [Homepage](https://rak.ac/) · [Scholar](https://scholar.google.com/citations?user=gdBghwwAAAAJ&hl=fr&oi=ao) · [ORCID](https://orcid.org/0000-0001-9497-4276)
+
+- Research: type systems, session types, concurrent programming, debian
+
+- Taking students: ✅
+
 ### [Simon Fraser University](https://www.sfu.ca/fas/computing.html)
 
 [Application deadline](https://www.sfu.ca/fas/study/future-graduates/apply/computing-science.html):

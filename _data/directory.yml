@@ -159,6 +159,71 @@
       research: type theory, dependent types, refinement types, automated reasoning, functional programming, logic programming,
         metaprogramming
       dblp: https://dblp.org/pid/p/BrigittePientka
+    - name: Christophe Dubach
+      homepage: https://cdubach.bitbucket.io/#about
+      scholar: https://scholar.google.com/citations?user=DINh8bYAAAAJ
+      orcid: https://orcid.org/0000-0003-4811-2469
+      taking_students: true
+      dblp: https://dblp.org/pid/54/4040
+      research: data-parallel language design and implementation, high-level code generation, optimization for parallel hardware (GPUs, FPGAs),
+        advanced compiler optimization techniques, architecture design space exploration, machine learning
+    - name: Clark Verbrugge
+      homepage: http://www.sable.mcgill.ca/~clump/
+      scholar: https://scholar.google.com/citations?user=Pj7HPD4AAAAJ
+      orcid: https://orcid.org/0000-0003-0663-7347
+      taking_students: true
+      dblp: https://dblp.org/pid/v/ClarkVerbrugge
+      research: program optimization, concurrency, compilers, computer games
+  - name: Université de Montréal
+    url: https://diro.umontreal.ca/accueil/
+    deadline:
+      - 'Fall (International): February 1st'
+      - 'Winter (International): September 1st'
+    deadline_url: https://diro.umontreal.ca/english/programs/graduate-programs/phd-in-computer-science/admission/
+    professors:
+    - name: Stefan Monnier
+      homepage: https://www.iro.umontreal.ca/~monnier/
+      orcid: https://orcid.org/0000-0001-7597-5273
+      image: /assets/img/profiles/stefan-monnier.png
+      dblp: https://dblp.org/pid/33/1697
+      research: type systems, Emacs, language semantics, functional programming, compilers, garbage collection
+    - name: Marc Feeley
+      homepage: https://www.iro.umontreal.ca/~feeley/
+      scholar: https://scholar.google.com/citations?user=z4hQkKQAAAAJ
+      orcid: https://orcid.org/0009-0005-5237-8712
+      image: /assets/img/profiles/marc-feeley.png
+      dblp: https://dblp.org/pid/f/MarcFeeley
+      research: dynamic language implementation,  parallel processing, functional programming, Scheme, Gambit, education in CS, computer architecture
+  - name: Concordia University
+    url: https://www.concordia.ca/ginacody/computer-science-software-eng.html
+    deadline:
+      - 'Fall (International): March 1st'
+      - 'Fall (Domestic): July 1st'
+      - 'Winter (International): July 1st'
+      - 'Winter (Domestic): November 1st'
+      - 'Summer (International): November 1st'
+      - 'Summer (Domestic): March 1st'
+    deadline_url: https://www.concordia.ca/academics/graduate/computer-science-phd.html
+    professors:
+    - name: Joey Paquet
+      homepage: https://users.encs.concordia.ca/~paquet/wiki/index.php?title=Research
+      image: /assets/img/profiles/joey-paquet.jpg
+      scholar: https://scholar.google.com/citations?user=uzK_jQIAAAAJ
+      orcid: https://orcid.org/0000-0002-4922-6989
+      dblp: https://dblp.org/pid/p/JoeyPaquet
+      research: design and implementation of programming languages, context-aware computing, service-oriented computing, software engineering
+  - name: Université du Québec à Montréal (UQAM)
+    url: https://info.uqam.ca/
+    deadline: 'Rolling'
+    deadline_url: https://etudier.uqam.ca/admission
+    professors:
+      - name: Ryan Kavanagh
+        homepage: https://rak.ac/
+        image: /assets/img/profiles/ryan-kavanagh.jpg
+        scholar: https://scholar.google.com/citations?user=gdBghwwAAAAJ
+        orcid: https://orcid.org/0000-0001-9497-4276
+        taking_students: true
+        research: type systems, session types, concurrent programming, debian
   - name: Simon Fraser University
     url: https://www.sfu.ca/fas/computing.html
     deadline:
