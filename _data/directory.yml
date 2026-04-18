@@ -184,7 +184,7 @@
     - name: Stefan Monnier
       homepage: https://www.iro.umontreal.ca/~monnier/
       orcid: https://orcid.org/0000-0001-7597-5273
-      image: /assets/img/profiles/stefan-monnier.png
+      image: /assets/img/profiles/stefan-monnier.jpg
       dblp: https://dblp.org/pid/33/1697
       research: type systems, Emacs, language semantics, functional programming, compilers, garbage collection
     - name: Marc Feeley
