@@ -2,7 +2,7 @@
 
 Thanks for helping keep this directory up to date!
 
-## How it works
+## How It Works
 
 The entries for schools and professors go in **`_data/directory.yml`**. Both the
 README and the
@@ -13,7 +13,7 @@ from this file.
 time the README is regenerated. However, I will not stop you. One must imagine
 Sisyphus happy.
 
-## Adding or updating a professor
+## Adding or Updating a Professor
 
 Edit `_data/directory.yml`. Each professor entry looks like this:
 
@@ -30,7 +30,7 @@ Edit `_data/directory.yml`. Each professor entry looks like this:
 
 All fields except `name` are optional.
 
-### Adding a new university
+## Adding a New University
 
 Add a new entry under the appropriate country:
 
@@ -62,7 +62,7 @@ If a deadline item has its own URL (like Lisboa's program-specific links):
 If it is more complicated than this, please link the arXiv paper explaining the
 admissions process for that specific university.
 
-## Adding a profile picture
+## Adding a Profile Picture
 
 The site is configured to use the linked Google Scholar profile picture by
 default.
@@ -80,10 +80,16 @@ placeholder[^1].
 
 ## Regenerating the README
 
-First, install python dependencies:
+### Using `uv`
 
+```bash
+uv run scripts/generate_readme.py
 ```
-# Create a virtual environment (optional but recommended)
+
+### Using `venv`
+
+```bash
+# Create a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -93,18 +99,18 @@ pip install -r requirements.txt
 
 After editing the YAML, you can manually regenerate the README:
 
-```
+```bash
 python scripts/generate_readme.py
 ```
 
 Or just push and let the workflow do it.
 
-## Previewing the site locally
+## Previewing the Site Locally
 
-```
+```bash
 jekyll --run "jekyll serve --port 4000"
 ```
 
-Then open http://localhost:4000/phd-applications/.
+Then open <http://localhost:4000/phd-applications/>.
 
 [^1]: Visualizing this professor is left as an exercise to the reader.
