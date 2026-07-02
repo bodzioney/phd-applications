@@ -821,6 +821,18 @@
       orcid: https://orcid.org/0000-0003-0826-4425
       research: refinement types, formal methods, distributed systems
       dblp: https://dblp.org/pid/86/10265
+- name: New Zealand
+  universities:
+  - name: University of Canterbury
+    url: https://www.csse.canterbury.ac.nz/
+    deadline: Rolling (contact supervisor first)
+    deadline_url: https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy/
+    professors:
+    - name: Walter Guttmann
+      homepage: https://www.csse.canterbury.ac.nz/walter.guttmann/
+      orcid: https://orcid.org/0000-0003-2969-1688
+      dblp: https://dblp.org/pid/g/WalterGuttmann
+      research: formal methods, program semantics, software verification, relation algebras, Isabelle/HOL
 - name: Poland
   universities:
   - name: University of Wroclaw

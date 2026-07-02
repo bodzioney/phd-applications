@@ -25,6 +25,7 @@ Inspired by and sourced from [PLGradSchools](https://github.com/LeifAndersen/PLG
 - [Hong Kong](#hong-kong)
 - [Japan](#japan)
 - [Netherlands](#netherlands)
+- [New Zealand](#new-zealand)
 - [Poland](#poland)
 - [Portugal](#portugal)
 - [Singapore](#singapore)
@@ -852,6 +853,18 @@ Application deadline: ❔
 **Klaus von Gleissenthall** — [Homepage](http://goto.ucsd.edu/~gleissen) · [Scholar](https://scholar.google.com/citations?user=Lc4IbnsAAAAJ) · [ORCID](https://orcid.org/0000-0003-0826-4425) · [DBLP](https://dblp.org/pid/86/10265)
 
 - Research: refinement types, formal methods, distributed systems
+
+- Taking students: ❔
+
+## New Zealand
+
+### [University of Canterbury](https://www.csse.canterbury.ac.nz/)
+
+[Application deadline](https://www.canterbury.ac.nz/study/academic-study/qualifications/doctor-of-philosophy/): Rolling (contact supervisor first)
+
+**Walter Guttmann** — [Homepage](https://www.csse.canterbury.ac.nz/walter.guttmann/) · [ORCID](https://orcid.org/0000-0003-2969-1688) · [DBLP](https://dblp.org/pid/g/WalterGuttmann)
+
+- Research: formal methods, program semantics, software verification, relation algebras, Isabelle/HOL
 
 - Taking students: ❔
 
